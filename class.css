@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{ margin:0px;
+padding:0px;
+	
+	
+	}
+
+body {
+     margin-right:auto;
+	 margin:0 0;
+	 background:no-repeat;
+	 background-image:url(pics/background-websites-web.jpg);
+	}
+.main1{
+	margin-bottom:20px;
+	animation-duration:2s
+	
+	margin:0 0;
+	  width:100%;
+	}
+.one
+{  margin-top:10px;
+   margin-left:380px;
+	position:absolute;
+	color:#000;
+	font-size:64px;
+	font-family:"Courier New", Courier, monospace
+}	
+	
+.main{
+	  width:1124px;
+	  height:200px;
+	  margin:auto;
+	  background-color:transparent;
+	
+	}
+ul{
+   position:absolute;
+   margin-top:100px;;
+    list-style-type:none;	
+}
+	
+ul li {
+	color:#FFF;
+	font-size:24px;
+	 float:left;
+	 padding:10px;
+	 position:relative;
+	
+	}
+ul li a{
+	margin-left:20px;
+	color:#000;
+	display:block;
+	 padding:20px;
+	background-color:transparent;  
+	text-decoration:none;
+	
+ 	}
+ul li a:hover{
+	color:#CFF;
+	border-radius:10px;
+	border-color:transparent
+   border-style:groove;
+	}
+ul li ul {
+	margin-top:0px;
+	line-height:1px;
+	 position:absolute;
+	 display:none;
+	}
+ul li:hover >ul
+{  
+   display:block;
+	
+	}
+.cen
+{	  
+	 width:100%px;
+	background-color:transparent
+}	
+.cen2{
+	width:1124px;
+	  height:auto;
+	  margin:auto;
+	  background-color:transparent;
+	
+	}
+	
+ol li {
+	   margin-left:30px;
+	   font-size:20px;
+	   font-style:!important;
+	 }
+.digi{
+	   border-radius:30px;
+	
+	}
+.digi:hover{
+	 transition-duration: 1s;
+	  transform:rotate(360deg);
+	
+	}
+	
+.inter{
+	
+	 border-bottom-left-radius:30px;
+	 border-bottom-right-radius:10px;
+	 border-top-left-radius:10px;
+	 border-top-right-radius:30px;
+	}
+	
+.inter:hover{
+	 transition-duration: 1s;
+	  transform:rotate(180deg);
+	
+	}
+.foot{
+	  margin:auto
+	  width:100%;
+	  height:200px;
+	  background-color:#000
+	
+	}	
+.foot1{ 
+       width:1300px;
+	  height:180px;
+	  margin:auto;
+	
+	}
+
+.foot11
+{
+	 width:300px;
+	 height:180px;
+	 float:left;
+	}
+.foot12
+{
+	 width:300px;
+	 height:180px;
+	 float:left;
+	}
+	.foot13
+{
+	 width:300px;
+	 height:180px;
+	 float:left;
+	 
+	}
+	.lag 
+	{float:right;
+	width:270px;
+	height:230px; 
+	border-radius:20px;
+	opacity:0.7
+		
+		}
+.lag:hover
+{
+	 
+	 width:600px;
+	 height:280px;
+  	
+}
