@@ -5,4 +5,6 @@ $conn = mysqli_connect("fdb15.atspace.me","2484347_newdb","sahilpc121","2484347_
    echo "Error";
 		 die();
    }
+
+   // for connection 
     ?>
